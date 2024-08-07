@@ -1,0 +1,47 @@
+# Eclipse and STS specific files
+.metadata/
+.project
+.classpath
+.settings/
+
+# STS workspace metadata
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+
+# Build directory
+target/
+bin/
+
+# IDE specific
+*.iml
+*.idea/
+*.vscode/
+
+# Log files
+*.log
+
+# Dependency directories
+.gradle/
+m2/
+
+# Misc
+.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# MacOS specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db

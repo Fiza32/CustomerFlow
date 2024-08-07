@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Token Page</title>
+    <link rel="stylesheet" href="/CSS/token.css" />
+  </head>
+  <body>
+    <div class="token-page">
+      <div class="token-content-wrapper">
+        <h2>Your Token</h2>
+        <div class="token-display">
+          <input
+            type="text"
+            id="tokenDisplay"
+            readonly
+            value="YOUR_TOKEN_HERE"
+          />
+          <button id="copyTokenButton" class="btn-token">Copy Token</button>
+        </div>
+        <h2>Verify Token</h2>
+        <div class="token-verification">
+          <input type="text" id="tokenInput" placeholder="Enter your token" />
+          <button id="verifyTokenButton" class="btn-token">Submit</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="JS/token.js"></script>
+    
+  </body>
+</html>

@@ -13,7 +13,7 @@
 The Customer Management Application is a web-based application designed to manage customer data efficiently. It allows users to add, view, update, delete, and search for customers. The application also supports synchronization of customer data from an external API.
 
 ## UI Screenshots
-![Customer Management Application](https://example.com/path/to/your/image.png)
+![Customer Management Application](images/1.jpg)
 
 
 ## Features

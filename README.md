@@ -14,6 +14,10 @@ The Customer Management Application is a web-based application designed to manag
 
 ## UI Screenshots
 ![Customer Management Application](images/1.jpg)
+![Customer Management Application](images/2.jpg)
+![Customer Management Application](images/3.jpg)
+![Customer Management Application](images/4.jpg)
+![Customer Management Application](images/5.jpg)
 
 
 ## Features

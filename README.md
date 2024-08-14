@@ -66,7 +66,7 @@ The Customer Management Application is a web-based application designed to manag
     ```
 
 ## Usage
-1. Open your browser and go to `http://localhost:8080`.
+1. Open your browser and go to `http://localhost:8080/home`.
 2. Use the application to manage customer data.
 
 ## API Endpoints
